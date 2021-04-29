@@ -5,6 +5,7 @@
 
 - [Installation](#installation)
 - [Quick Start Client](#Quick-Start--client)
+- [Connect Server](#connect-server)
 - [Developer](#developer)
 
 ## Installation
